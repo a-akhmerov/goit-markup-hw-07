@@ -1,10 +1,10 @@
-@import "./base/modern-normalize";
+@import "./utils/modern-normalize";
 @import "./utils/vars";
-@import "./base/reset";
+@import "./utils/reset";
 @import "./utils/hidden";
 @import "./components/container";
 @import "./base/common";
-@import "./utils/card-set";
+@import "./base/card-set";
 @import "./utils/mixins";
 @import "./components/logo";
 @import "./layouts/header";
@@ -15,7 +15,7 @@
 @import "./components/modal";
 @import "./components/callback-form";
 @import "./layouts/privelegy";
-@import "./components/section-title";
+@import "./components/section";
 @import "./layouts/occupation";
 @import "./layouts/team";
 @import "./components/social";
@@ -23,4 +23,4 @@
 @import "./layouts/footer";
 @import "./components/mailing-form"; 
 @import "./components/filtr";
-@import "./components/projects";
+@import "./layouts/projects";

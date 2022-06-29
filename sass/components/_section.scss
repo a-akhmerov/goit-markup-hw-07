@@ -1,3 +1,7 @@
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
 .section-title {
     @include font(36px, none, 1.17);
     // font-size: 36px;
